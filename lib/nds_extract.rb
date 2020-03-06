@@ -56,7 +56,7 @@ while list_of_directors_index < list_of_directors(source).length
 
   directors_gross += directors_totals(source)[array_director_name]
 
-  director_index += 1
+  list_of_directors_index += 1
 end
 overall_total
 end
